@@ -19,3 +19,4 @@ tests/report/
 db.sqlite3
 .idea
 *.DS_Store
+alphabet/local_settings.py
