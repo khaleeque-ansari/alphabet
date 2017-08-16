@@ -134,6 +134,6 @@ MEDIA_ROOT = PROJECT_PATH + '/media/'
 
 
 try:
-    from local_settings import *
+    from .local_settings import *
 except ImportError:
-    from prod_settings import *
+    from .prod_settings import *
