@@ -29,7 +29,7 @@ DEBUG = True
 
 PREPEND_WWW = True
 
-ALLOWED_HOSTS = ['www.khaleequeansari.com']
+ALLOWED_HOSTS = ['.khaleequeansari.com']
 
 
 # Application definition
